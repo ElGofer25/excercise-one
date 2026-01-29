@@ -8,7 +8,15 @@
 prc+tab
 mr+tab
 
+3. Crea general
+Que contenga todos los componentes
+Para evitar que aparezca en el url nombrala como (genera)
+
+4. Iconos
+npm install @primer/octicons-react
+
+
             NOTAS
-* Evita modificar el layout original, por otro lado, el page original si o si será modificado
+* Evita modificar el layout original, por otro lado,  el page original si o si será modificado
 * Crea la mayor cantidad de componentes posibles
-* Prefiere claridad antes de velocidad# excercise-one
+* Prefiere claridad antes de velocidad
